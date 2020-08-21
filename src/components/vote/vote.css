@@ -1,0 +1,21 @@
+.btn,
+.btn2 {
+  display: grid;
+  justify-content: center;
+}
+.btnGerar {
+  border-radius: 0.2rem;
+  border-color: green;
+  background-color: green;
+  color: white;
+  cursor: pointer;
+}
+
+.btnEncerrar {
+  margin: 1rem;
+  border-radius: 0.2rem;
+  border-color: red;
+  background-color: red;
+  color: white;
+  cursor: pointer;
+}

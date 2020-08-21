@@ -1,0 +1,19 @@
+label {
+  font-family: "Yanone Kaffeesatz", sans-serif;
+}
+
+input {
+  padding: 0.2rem;
+  border-radius: 0.2rem;
+  margin: 0.5rem;
+}
+
+input:focus {
+  background-color: #fffdd0;
+  font-size: medium;
+}
+
+.form {
+  display: grid;
+  justify-content: center;
+}
