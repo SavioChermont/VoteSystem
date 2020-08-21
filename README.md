@@ -7,9 +7,11 @@
 </div>
   
  <div>
-  <h3> COMO FOI CRIADO
+  <h3 color:"green"> COMO FOI CRIADO
     <li> create-react-app </li>
     <li> yarn start </li>
 </div>
+  
+
   
 
