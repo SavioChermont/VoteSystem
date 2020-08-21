@@ -20,6 +20,14 @@
 
 </div>
 
+<div>
+  <h3> COMPONENTES </h3>
+  <li> DASHBOARD: Criado para ser o pai de FORM e VOTE, possibilitando informaçoes serem trocadas</li>
+  <li> FORM: Contém os INPUTS que declaram nomes para a votação </li>
+  <li> VOTE: Recebe dados do DASHBOARD/FORM, cria os butões "Gerar" e "Encerrar" e chama o DISPLAY </li>
+  <li> DISPLAY: Responsável por exibir a votação na tela após o clique no botão "Gerar", e incrementa votos ao clicar em "Votar" </li>
+</div>
+
 
  
 
