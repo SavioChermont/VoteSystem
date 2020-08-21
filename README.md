@@ -11,8 +11,15 @@
     <li> create-react-app </li>
     <li> yarn start </li>
 </div>
+<div>
+  <h3> LAYOUT </h3>
+  
+  ![Capturar](https://user-images.githubusercontent.com/45010175/90901794-dc17ab80-e3a1-11ea-9bcb-220438225f82.PNG)
+  
+  ![layout2](https://user-images.githubusercontent.com/45010175/90901980-26992800-e3a2-11ea-9686-88b1c3fa5071.PNG)
 
-![Capturar](https://user-images.githubusercontent.com/45010175/90901794-dc17ab80-e3a1-11ea-9bcb-220438225f82.PNG)
+</div>
+
 
  
 
