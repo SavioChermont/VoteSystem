@@ -15,7 +15,7 @@
 <div>
   <h3> LAYOUT </h3>
   
-    ![image](https://user-images.githubusercontent.com/45010175/90901204-f309ce00-e3a0-11ea-9648-906064365257.png)
+    ![image](https://user-images.githubusercontent.com/45010175/90901334-28162080-e3a1-11ea-9a46-f285d7234e7b.png)
 
 </div>
   
